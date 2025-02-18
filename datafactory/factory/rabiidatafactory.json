@@ -1,0 +1,9 @@
+{
+	"name": "rabiidatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2c082de-4c36-4e12-ad31-fba03ea115a3",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
